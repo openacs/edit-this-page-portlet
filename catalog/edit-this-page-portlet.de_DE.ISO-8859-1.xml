@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<message_catalog package_key="edit-this-page-portlet" package_version="0.1a" locale="de_DE" charset="ISO-8859-1">
+<message_catalog package_key="edit-this-page-portlet" package_version="2.0.3" locale="de_DE" charset="ISO-8859-1">
 
+  <msg key="admin_edit-this-page">ETP verwalten</msg>
   <msg key="admin_pretty_name">ETP Verwalten</msg>
   <msg key="Disable">Deaktivieren</msg>
   <msg key="Disabled">Deaktiviert</msg>
   <msg key="Enable">Aktivieren</msg>
+  <msg key="fs_edit-this-page">ETP-File-Storage</msg>
   <msg key="group">Gruppe</msg>
   <msg key="name">Name</msg>
-  <msg key="admin_edit-this-page">ETP verwalten</msg>
-  <msg key="fs_edit-this-page">ETP-File-Storage</msg>
+  <msg key="noentry_edit-this-page">kein Eintrag</msg>
   <msg key="one_admin_edit-this-page">Aus verwaltungstechnischen Gründen sollten die edit-this-page innerhalb einer Gruppe nur einmal eingesetzt werden. </msg>
   <msg key="pretty_name">ETP</msg>
-  <msg key="noentry_edit-this-page">kein Eintrag</msg>
 </message_catalog>
