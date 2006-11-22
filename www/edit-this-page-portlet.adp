@@ -33,11 +33,9 @@
     </multiple>
   </if>
   <else>
-    <small>#edit-this-page-portlet.noentry_edit-this-page#</small>
+    #edit-this-page-portlet.noentry_edit-this-page#
   </else>
 </if>
 <else>
-  <small>
-    #new-portal.when_portlet_shaded#
-  </small>
+  &nbsp;
 </else>
